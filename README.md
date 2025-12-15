@@ -215,8 +215,8 @@ RentAutoPro/
 - [ ] Exportación de reportes a Excel
 
 ## 👥 Autores
-Anthony JeanPaul Reyes Risco
-Proyecto desarrollado para el curso de Ingeniería de Software - UNT
+- Anthony JeanPaul Reyes Risco
+- Proyecto desarrollado para el curso de Ingeniería de Software - UNT
 
 ## 📄 Licencia
 
